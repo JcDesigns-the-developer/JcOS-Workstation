@@ -1,7 +1,7 @@
 # 💻 JcOS Workstation
 
 <p align="center">
-  <img src="assets/wallpaper.png" width="100%">
+  <img src="assets/fordocks.png" width="100%">
 </p>
 
 <p align="center">
