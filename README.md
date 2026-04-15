@@ -96,7 +96,7 @@ Everything is preconfigured for modern development workflows.
 
 > ⚠️ ISO not hosted on GitHub
 
-👉 Download: **(ADD YOUR LINK)**
+👉 Download: **([link](https://github.com/JcDesigns-the-developer/JcOS-Workstation/releases/tag/Custom-Os-For-Devs-And-Coders))**
 
 ---
 
