@@ -1,4 +1,4 @@
-# broken don't install
+# ⚠️broken don't install⚠️
 ## 💻 JcOS Workstation
 
 <p align="center">
