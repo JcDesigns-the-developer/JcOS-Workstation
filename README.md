@@ -1,4 +1,5 @@
-# 💻 JcOS Workstation
+#broken don't install
+## 💻 JcOS Workstation
 
 <p align="center">
   <img src="assets/fordocks.png" width="100%">
