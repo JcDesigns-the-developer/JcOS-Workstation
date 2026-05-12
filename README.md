@@ -1,4 +1,4 @@
-# ⚠️broken don't install⚠️
+# ⚠️broken don't install⚠️ remake it have patience 
 ## 💻 JcOS Workstation
 
 <p align="center">
